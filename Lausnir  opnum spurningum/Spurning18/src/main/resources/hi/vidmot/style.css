@@ -1,0 +1,14 @@
+.title-label {
+    -fx-font-size: 24px;
+    -fx-font-weight: bold;
+}
+
+.convert-button {
+    -fx-background-color: green;
+    -fx-text-fill: white;
+    -fx-font-size: 14px;
+}
+
+.result-label {
+    -fx-font-size: 18px;
+}
